@@ -2,5 +2,4 @@
 User-agent: *
 Allow: /
 
-# Point to your sitemap if you create one later
-# Sitemap: https://udown.me/sitemap.xml
+Sitemap: https://udown.me/sitemap.xml
